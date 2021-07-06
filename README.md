@@ -1,6 +1,6 @@
 # zParallel
 
-JQuery Plugin to simulate parallel execution of funcRun during idle times.
+JQuery Plugin to simulate parallel execution of a function(nextThis) during idle time during idle time for objects from jQuery selector.
 
       // Example of an original code:
 
