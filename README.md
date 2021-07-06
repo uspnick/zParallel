@@ -27,7 +27,7 @@ JQuery Plugin to simulate parallel execution of a function(nextThis) during idle
 
 
 
-// JS code
+// Example of using the zParallel plugin
 
       (function ($)
       {
