@@ -1,6 +1,6 @@
 # zParallel
 
-Plugin to simulate parallel execution of funcRun during idle times.
+JQuery Plugin to simulate parallel execution of funcRun during idle times.
 
       // Example of an original code:
 
