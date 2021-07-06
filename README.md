@@ -16,7 +16,7 @@ Plugin to simulate parallel execution of funcRun during idle times.
     
     
     
-// Testing the zParallel Plugin    https://jsfiddle.net/NickU/1xt8L7co/59/
+// Testing the zParallel Plugin:    https://jsfiddle.net/NickU/1xt8L7co/59/
 
       <html>
         <body>
